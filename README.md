@@ -14,6 +14,9 @@ It also shows the **number of videos** and the **watch time at different speeds*
 
 ---
 
+## 📸 Screenshot
+
+![App Screenshot](./Screenshot.png)
 
 
 ---
